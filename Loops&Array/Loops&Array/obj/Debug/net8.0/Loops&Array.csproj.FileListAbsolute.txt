@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Loops&Array\Loops&Array\bin\Debug\net8.0\Loops&Array.exe
+C:\Users\user\source\repos\Loops&Array\Loops&Array\bin\Debug\net8.0\Loops&Array.deps.json
+C:\Users\user\source\repos\Loops&Array\Loops&Array\bin\Debug\net8.0\Loops&Array.runtimeconfig.json
+C:\Users\user\source\repos\Loops&Array\Loops&Array\bin\Debug\net8.0\Loops&Array.dll
+C:\Users\user\source\repos\Loops&Array\Loops&Array\bin\Debug\net8.0\Loops&Array.pdb
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.AssemblyInfo.cs
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.dll
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\refint\Loops&Array.dll
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.pdb
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\Loops&Array.genruntimeconfig.cache
+C:\Users\user\source\repos\Loops&Array\Loops&Array\obj\Debug\net8.0\ref\Loops&Array.dll
