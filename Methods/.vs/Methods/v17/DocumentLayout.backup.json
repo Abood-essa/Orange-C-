@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF643FF-5B3A-47AD-A5DF-CF86577A6C19}|Methods\\Methods.csproj|c:\\users\\user\\desktop\\orange-c#\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF643FF-5B3A-47AD-A5DF-CF86577A6C19}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\654cf748b2ae9987a1a03555c62a6c3cbcb3173b4fa01a423f125f34a655319a\\TransformNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransformNode.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\654cf748b2ae9987a1a03555c62a6c3cbcb3173b4fa01a423f125f34a655319a\\TransformNode.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\654cf748b2ae9987a1a03555c62a6c3cbcb3173b4fa01a423f125f34a655319a\\TransformNode.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\654cf748b2ae9987a1a03555c62a6c3cbcb3173b4fa01a423f125f34a655319a\\TransformNode.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\654cf748b2ae9987a1a03555c62a6c3cbcb3173b4fa01a423f125f34a655319a\\TransformNode.cs [Read Only]",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDEAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:27:06.73Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Methods\\Methods\\Program.cs*",
+              "RelativeToolTip": "Methods\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:01:27.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
