@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\bin\Debug\net8.0\Methods&list&LINQ.exe
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\bin\Debug\net8.0\Methods&list&LINQ.deps.json
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\bin\Debug\net8.0\Methods&list&LINQ.runtimeconfig.json
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\bin\Debug\net8.0\Methods&list&LINQ.dll
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\bin\Debug\net8.0\Methods&list&LINQ.pdb
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.sourcelink.json
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.dll
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\refint\Methods&list&LINQ.dll
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.pdb
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\Methods&list&LINQ.genruntimeconfig.cache
+C:\Users\user\Desktop\Orange-C#\Methods&list&LINQ\Methods&list&LINQ\obj\Debug\net8.0\ref\Methods&list&LINQ.dll

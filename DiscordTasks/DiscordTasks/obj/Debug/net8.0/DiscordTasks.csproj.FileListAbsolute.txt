@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\bin\Debug\net8.0\DiscordTasks.exe
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\bin\Debug\net8.0\DiscordTasks.deps.json
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\bin\Debug\net8.0\DiscordTasks.runtimeconfig.json
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\bin\Debug\net8.0\DiscordTasks.dll
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\bin\Debug\net8.0\DiscordTasks.pdb
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.sourcelink.json
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.dll
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\refint\DiscordTasks.dll
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.pdb
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\DiscordTasks.genruntimeconfig.cache
+C:\Users\user\Desktop\Orange-C#\DiscordTasks\DiscordTasks\obj\Debug\net8.0\ref\DiscordTasks.dll
