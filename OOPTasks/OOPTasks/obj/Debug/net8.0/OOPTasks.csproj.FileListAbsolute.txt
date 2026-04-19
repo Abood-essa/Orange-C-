@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\bin\Debug\net8.0\OOPTasks.exe
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\bin\Debug\net8.0\OOPTasks.deps.json
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\bin\Debug\net8.0\OOPTasks.runtimeconfig.json
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\bin\Debug\net8.0\OOPTasks.dll
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\bin\Debug\net8.0\OOPTasks.pdb
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.sourcelink.json
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.dll
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\refint\OOPTasks.dll
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.pdb
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\OOPTasks.genruntimeconfig.cache
+C:\Users\user\Desktop\Orange-C#\OOPTasks\OOPTasks\obj\Debug\net8.0\ref\OOPTasks.dll
