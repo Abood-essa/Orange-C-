@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|c:\\users\\user\\desktop\\orange-c#\\advanceooptasks\\advanceooptasks\\overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7AFE2-12D4-496C-AAC7-E4DD02800CB6}|AdvanceOOPTasks\\AdvanceOOPTasks.csproj|solutionrelative:advanceooptasks\\overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Rectangle.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\Rectangle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:11:37.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Shape.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\Shape.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Shape.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:09:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Person.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Person.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:08:45.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Cat.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\Cat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Cat.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\Cat.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:07:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Animal.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\Animal.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Animal.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\Animal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:05:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverLoading.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\OverLoading.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\OverLoading.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\OverLoading.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\OverLoading.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:04:29.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Program.cs",
+              "RelativeDocumentMoniker": "AdvanceOOPTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AdvanceOOPTasks\\AdvanceOOPTasks\\Program.cs*",
+              "RelativeToolTip": "AdvanceOOPTasks\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:03:13.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\bin\Debug\net8.0\AdvanceOOPTasks.exe
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\bin\Debug\net8.0\AdvanceOOPTasks.deps.json
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\bin\Debug\net8.0\AdvanceOOPTasks.runtimeconfig.json
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\bin\Debug\net8.0\AdvanceOOPTasks.dll
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\bin\Debug\net8.0\AdvanceOOPTasks.pdb
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.sourcelink.json
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.dll
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\refint\AdvanceOOPTasks.dll
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.pdb
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\AdvanceOOPTasks.genruntimeconfig.cache
+C:\Users\user\Desktop\Orange-C#\AdvanceOOPTasks\AdvanceOOPTasks\obj\Debug\net8.0\ref\AdvanceOOPTasks.dll
