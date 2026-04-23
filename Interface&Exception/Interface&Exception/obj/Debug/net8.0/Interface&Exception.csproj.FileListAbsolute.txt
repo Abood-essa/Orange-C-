@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\bin\Debug\net8.0\Interface&Exception.exe
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\bin\Debug\net8.0\Interface&Exception.deps.json
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\bin\Debug\net8.0\Interface&Exception.runtimeconfig.json
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\bin\Debug\net8.0\Interface&Exception.dll
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\bin\Debug\net8.0\Interface&Exception.pdb
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.AssemblyInfo.cs
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.sourcelink.json
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.dll
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\refint\Interface&Exception.dll
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.pdb
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\Interface&Exception.genruntimeconfig.cache
+C:\Users\user\Desktop\Orange-C#\Interface&Exception\Interface&Exception\obj\Debug\net8.0\ref\Interface&Exception.dll
