@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\controllers\\adminsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\controllers\\adminsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|c:\\users\\user\\desktop\\orange-c#\\authtask\\authtask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E066B4-7673-4535-A09A-16A647833853}|AuthTask\\AuthTask.csproj|solutionrelative:authtask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthTask\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T20:48:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T20:46:58.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T16:06:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Program.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Program.cs",
+              "RelativeToolTip": "AuthTask\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:55:55.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AuthTask\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:59:56.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminSetupController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\AdminSetupController.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Controllers\\AdminSetupController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\AdminSetupController.cs",
+              "RelativeToolTip": "AuthTask\\Controllers\\AdminSetupController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:59:05.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "AuthTask\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T12:00:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AuthTask\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T11:50:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T11:52:28.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:06:00.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:06:02.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AuthTask\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:49:00.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:06:04.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:06:04.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:06:09.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:06:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T16:05:59.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AuthTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AuthTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-01T16:05:55.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\appsettings.json",
+              "RelativeToolTip": "AuthTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T11:44:22.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AuthTask\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "AuthTask\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T11:44:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthTask\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\AuthTask\\AuthTask\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuthTask\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:43:51.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

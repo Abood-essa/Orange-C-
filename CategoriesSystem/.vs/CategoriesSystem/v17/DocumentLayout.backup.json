@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Migrations\\20260501184818_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CategoriesSystem\\Migrations\\20260501184818_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|c:\\users\\user\\desktop\\orange-c#\\categoriessystem\\categoriessystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8909A120-F934-4B62-AB36-520E53A74EB7}|CategoriesSystem\\CategoriesSystem.csproj|solutionrelative:categoriessystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CategoriesSystem\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T19:08:43.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "CategoriesSystem\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T19:02:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "CategoriesSystem\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T18:55:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "CategoriesSystem\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T18:55:42.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "CategoriesSystem\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T18:55:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CategoriesSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:54:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CategoriesSystem\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:53:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260501184818_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Migrations\\20260501184818_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Migrations\\20260501184818_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Migrations\\20260501184818_InitialCreate.cs",
+              "RelativeToolTip": "CategoriesSystem\\Migrations\\20260501184818_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:48:18.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Program.cs",
+              "RelativeToolTip": "CategoriesSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:47:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Models\\Product.cs",
+              "RelativeToolTip": "CategoriesSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:45:31.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "CategoriesSystem\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T18:55:45.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CategoriesSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\appsettings.json",
+              "RelativeToolTip": "CategoriesSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-01T18:46:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CategoriesSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:46:37.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Models\\Category.cs",
+              "RelativeToolTip": "CategoriesSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:45:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CategoriesSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CategoriesSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:44:34.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
