@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\models\\contactfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\contactfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\models\\contactfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\contactfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74FAC7FE-5CB2-40CA-A4D5-8507D507F495}|CompanySystem\\CompanySystem.csproj|c:\\users\\user\\desktop\\orange-c#\\companysystem\\companysystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Program.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Program.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "CompanySystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:40:33.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:40:33.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\appsettings.json",
               "RelativeDocumentMoniker": "CompanySystem\\appsettings.json",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Data\\ApplicationDbContext.cs",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "CompanySystem\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:33:21.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:33:21.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ContactFeedback.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Models\\ContactFeedback.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Models\\ContactFeedback.cs",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "CompanySystem\\Models\\ContactFeedback.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:32:31.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:32:31.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Models\\TaskItem.cs",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "CompanySystem\\Models\\TaskItem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:31:25.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:31:25.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Models\\Employee.cs",
@@ -131,12 +127,11 @@
               "RelativeToolTip": "CompanySystem\\Models\\Employee.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAywCwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:27:26.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:27:26.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Models\\Department.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Models\\Department.cs",
@@ -144,12 +139,11 @@
               "RelativeToolTip": "CompanySystem\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:26:47.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:26:47.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\CompanySystem\\CompanySystem\\Models\\Role.cs",
               "RelativeDocumentMoniker": "CompanySystem\\Models\\Role.cs",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "CompanySystem\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:25:45.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:25:45.362Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "CompanySystem\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T17:38:46.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T17:38:46.436Z"
             }
           ]
         }

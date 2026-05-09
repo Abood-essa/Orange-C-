@@ -1,12 +1,12 @@
-﻿using System;
-using System.Globalization;
-using System.Reflection;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System.Globalization;
 
 namespace DiscordTasks
 
 
 {
+
+
+
 
     class DateConverter
     {
@@ -19,6 +19,24 @@ namespace DiscordTasks
             );
 
             Console.WriteLine("Converted Date: " + date.ToString("yyyy-MM-dd"));
+        }
+
+        public static void test()
+        {
+            int[] arr = [2, 6, 7, 10];
+            int max = arr[0];
+            int sum = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sum += arr[i];
+                if (arr[i] > max)
+                    max = arr[i];
+            }
+            double avg = sum / arr.Length;
+            Console.WriteLine("sum = " + sum);
+            Console.WriteLine("avg = " + avg);
+            Console.WriteLine("max num = " + max);
+
         }
     }
 

@@ -1,15 +1,37 @@
-﻿@model IEnumerable<CategoriesSystem.Models.Product>
-
+﻿@model List<Product>
 @{
     ViewData["Title"] = "Index";
 }
 
 <h1>Index</h1>
 
+<h2>Products</h2>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+
+<div class="row">
+@foreach (var item in Model)
+{
+        <div class="col-md-4 mb-3">
+            <div class="card shadow-sm h-100">
+
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">
+                        <strong>Price:</strong> @item.Price $
+                    </p>
+                    <p class="card-text">
+                        <strong>Category:</strong> @item.Category?.Name
+                    </p>
+                </div>
+            </div>
+        </div>
+}
+</div>
+
+
+@* <table class="table">
     <thead>
         <tr>
             <th>
@@ -51,3 +73,4 @@
 }
     </tbody>
 </table>
+ *@

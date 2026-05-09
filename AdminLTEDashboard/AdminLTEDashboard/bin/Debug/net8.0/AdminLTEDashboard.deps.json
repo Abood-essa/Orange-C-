@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdminLTEDashboard/1.0.0": {
+        "runtime": {
+          "AdminLTEDashboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdminLTEDashboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

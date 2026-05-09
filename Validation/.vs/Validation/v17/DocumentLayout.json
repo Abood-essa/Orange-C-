@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Migrations\\20260506080545_EmployeeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Validation\\Migrations\\20260506080545_EmployeeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Migrations\\20260506080246_EmployeeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Validation\\Migrations\\20260506080246_EmployeeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|c:\\users\\user\\desktop\\orange-c#\\validation\\validation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A00FFC3-E9BA-498A-B66D-F496100500C0}|Validation\\Validation.csproj|solutionrelative:validation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Validation\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Validation\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-06T11:55:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Validation\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Validation\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T08:55:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Validation\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Validation\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:10:37.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260506080545_EmployeeDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Migrations\\20260506080545_EmployeeDb.cs",
+              "RelativeDocumentMoniker": "Validation\\Migrations\\20260506080545_EmployeeDb.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Migrations\\20260506080545_EmployeeDb.cs",
+              "RelativeToolTip": "Validation\\Migrations\\20260506080545_EmployeeDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:05:45.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260506080246_EmployeeDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Migrations\\20260506080246_EmployeeDb.cs",
+              "RelativeDocumentMoniker": "Validation\\Migrations\\20260506080246_EmployeeDb.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Migrations\\20260506080246_EmployeeDb.cs",
+              "RelativeToolTip": "Validation\\Migrations\\20260506080246_EmployeeDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:02:47.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Program.cs",
+              "RelativeDocumentMoniker": "Validation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Program.cs",
+              "RelativeToolTip": "Validation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:01:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\appsettings.json",
+              "RelativeDocumentMoniker": "Validation\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\appsettings.json",
+              "RelativeToolTip": "Validation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T07:55:09.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Validation\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Validation\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:46:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Validation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\Validation\\Validation\\Models\\Employee.cs",
+              "RelativeToolTip": "Validation\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:46:13.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

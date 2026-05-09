@@ -4,40 +4,32 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h2 class="mb-4">Categories</h2>
+<a asp-controller="Categories" asp-action="Create" >Create Category</a>
+<a asp-controller="Products" asp-action="Create" >Create Product</a>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>Image</th>
-            <th></th>
-        </tr>
-    </thead>
+<div class="row">
+    @foreach (var category in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img src="@category.ImagePath" class="card-img-top" style="height:200px; object-fit:cover;" />
 
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Name)
-                </td>
+                <div class="card-body">
+                    <h5 class="card-title">@category.Name</h5>
 
-                <td>
-                    <img src="@item.ImagePath" width="80" height="80" style="object-fit:cover;" />
-                </td>
+                    <a asp-controller="Products"
+                       asp-action="ByCategory"
+                       asp-route-id="@category.Id"
+                       class="btn btn-primary">
+                        View Products
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
 
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+
+
+

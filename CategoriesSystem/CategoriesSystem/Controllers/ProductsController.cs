@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CategoriesSystem.Data;
+using CategoriesSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using CategoriesSystem.Data;
-using CategoriesSystem.Models;
 
 namespace CategoriesSystem.Controllers
 {
@@ -19,24 +15,22 @@ namespace CategoriesSystem.Controllers
             _context = context;
         }
 
-        // GET: Products
-        public async Task<IActionResult> Index()
+
+
+        public IActionResult ByCategory(int id)
         {
-            var applicationDbContext = _context.Products.Include(p => p.Category);
-            return View(await applicationDbContext.ToListAsync());
+            var products = _context.Products
+                .Where(p => p.CategoryId == id)
+                .ToList();
+
+            return View(products);
         }
 
-        // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public IActionResult Details(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            var product = _context.Products
+                .FirstOrDefault(p => p.Id == id);
 
-            var product = await _context.Products
-                .Include(p => p.Category)
-                .FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
             {
                 return NotFound();
@@ -45,6 +39,12 @@ namespace CategoriesSystem.Controllers
             return View(product);
         }
 
+        // GET: Products
+        public async Task<IActionResult> Index()
+        {
+            var applicationDbContext = _context.Products.Include(p => p.Category);
+            return View(await applicationDbContext.ToListAsync());
+        }
         // GET: Products/Create
         public IActionResult Create()
         {

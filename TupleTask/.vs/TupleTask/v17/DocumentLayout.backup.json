@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|c:\\users\\user\\desktop\\orange-c#\\tupletask\\tupletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEA669B-C155-4EEC-89CA-64C6C165EC57}|TupleTask\\TupleTask.csproj|solutionrelative:tupletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TupleTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TupleTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T08:35:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TupleTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TupleTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:29:49.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\appsettings.json",
+              "RelativeDocumentMoniker": "TupleTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\appsettings.json",
+              "RelativeToolTip": "TupleTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T08:25:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TupleTask\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TupleTask\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:19:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TupleTask\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Models\\Course.cs*",
+              "RelativeToolTip": "TupleTask\\Models\\Course.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:18:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TupleTask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Models\\Student.cs*",
+              "RelativeToolTip": "TupleTask\\Models\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:17:06.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Program.cs",
+              "RelativeDocumentMoniker": "TupleTask\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\TupleTask\\TupleTask\\Program.cs",
+              "RelativeToolTip": "TupleTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:16:29.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

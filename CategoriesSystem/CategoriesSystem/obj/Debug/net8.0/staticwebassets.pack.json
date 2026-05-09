@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\wwwroot\\images\\categories\\6c5824ac-444e-4887-ace8-c26af2449a3c.png",
+      "PackagePath": "staticwebassets\\images\\categories\\6c5824ac-444e-4887-ace8-c26af2449a3c.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\wwwroot\\images\\categories\\8bc0e3af-4f95-4485-8c10-b7f5cd024db5.png",
+      "PackagePath": "staticwebassets\\images\\categories\\8bc0e3af-4f95-4485-8c10-b7f5cd024db5.png"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\Orange-C#\\CategoriesSystem\\CategoriesSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

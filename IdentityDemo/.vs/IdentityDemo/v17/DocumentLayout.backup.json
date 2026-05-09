@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F9915A3-BE17-4120-9C80-57AD85DAD5DF}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\user\\desktop\\orange-c#\\identitydemo\\identitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -87,32 +95,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:13:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:12:48.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ForgotPassword.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T11:10:29.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T11:10:26.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -125,20 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T11:06:45.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "IdentityDemo\\Models\\RegisterViewModel.cs",
@@ -151,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Program.cs",
               "RelativeDocumentMoniker": "IdentityDemo\\Program.cs",
@@ -164,46 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "IdentityDemo\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\appsettings.json",
-              "RelativeToolTip": "IdentityDemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-29T10:48:44.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260429104623_IdentitySetup.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
-              "RelativeDocumentMoniker": "IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
-              "RelativeToolTip": "IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:46:23.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IdentityDemo\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IdentityDemo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T10:33:20.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -216,7 +198,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T11:06:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T11:10:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\appsettings.json",
+              "RelativeToolTip": "IdentityDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T10:48:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260429104623_IdentitySetup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
+              "RelativeToolTip": "IdentityDemo\\Data\\Migrations\\20260429104623_IdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T10:46:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "IdentityDemo\\Models\\ErrorViewModel.cs",
@@ -229,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -242,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "IdentityDemo\\ScaffoldingReadMe.txt",
@@ -255,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -268,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -281,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Orange-C#\\IdentityDemo\\IdentityDemo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "IdentityDemo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscordTasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e13f66722ac4bbe12e22ae3f78c26986647afda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5c767d8193b21ca5067f6ef3b37a8aedbd32c44")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscordTasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscordTasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

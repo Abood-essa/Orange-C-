@@ -14,10 +14,14 @@ namespace CategoriesSystem.Controllers
             _context = context;
         }
 
+
+
         // GET: Categories
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            return View(await _context.Categories.ToListAsync());
+            var categories = _context.Categories.ToList();
+
+            return View(categories);
         }
 
         // GET: Categories/Details/5
